@@ -1,0 +1,20 @@
+Introduction:
+This application is for the Android device users who want to access the facilities provided by AceNet campus's official site. Currently it supports subset of features of site. In future it should stand on its own with major focus on geo-location based services.
+
+Requirments:
+Android Developement Environment(check official android developer page).
+
+How To:
+Import project in Eclipse. You will need to change the webRoot(soon to be mentioned in this README). Then you can test it in your emulator.
+
+To Do:
+Testing,
+Theming.
+Geo Location modules.
+
+Developer:
+Dheeraj Suthar.
+
+Owner:
+Hari Kommaraju,xs
+FutureNow LLC Pvt. Ltd.
